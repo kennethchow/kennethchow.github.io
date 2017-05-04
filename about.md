@@ -1,30 +1,13 @@
 ---
 layout: page
-title: About
+title: A little bit about me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm Kenny and I'm from Malaysia but grew up in Thailand before completing my BSc in Genetics at the University of York. A bioinformatics elective that I worked on inspired the thought that data science had incredible applications in the field I was already in and now here I am working on a Data Science bootcamp called [Metis](https://www.thisismetis.com/), an ACCET accredited bootcamp.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Contact
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [LinkedIn](https://www.linkedin.com/in/kenneth-chow/)
+* [Github](https://github.com/kennethchow/)
+* [Facebook](https://www.facebook.com/kennychowsk)
+* [Instagram](https://www.instagram.com/ken.nychow/)
