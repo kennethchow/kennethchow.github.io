@@ -18,7 +18,7 @@ Colorado is the gold standard model for the success of Marijuana with steadily g
 
 ## Project Luther
 
-Using strain data obtained from [Allbud](https://www.allbud.com/) which included genetics, THC content, positive effects, medical uses and flavors I built a regression model to predict the genetics of a strain using the known traits of said strain. 
+Using strain data obtained from [Allbud](https://www.allbud.com/) which included genetics, THC content, positive effects, medical uses, and flavors I built a regression model to predict the genetics of a strain using the known traits of said strain. 
 
   > Cannabis can be classified into two main species: Cannabis Indica and Cannabis Sativa. In scientific nomenclature the first word refers to the Genus - a taxonomic category within which species share similar traits. This has enabled crossbreeding which has given rise to the vast variety of Sativa/Indica hybrids taking different proportions of genetics from parent strains.
 
@@ -27,7 +27,7 @@ Using strain data obtained from [Allbud](https://www.allbud.com/) which included
 <em>Fig. 2 Features with the highest contribution to determining genetics according to my linear model</em>
 
 
-Energizing, Uplifting and Creativity are effects positively correlated with Sativa genetics. Fatigue is also a positively correlated medical use. The 3 traits on the right are negatively correlated with Sativa genetics i.e. positively correlated with Indica genetics.
+Energizing, Uplifting, and Creativity are effects positively correlated with Sativa genetics. Fatigue is also a positively correlated medical use. The 3 traits on the right are negatively correlated with Sativa genetics i.e. positively correlated with Indica genetics.
 
 ## An outlook on the future of Green Data
 

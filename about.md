@@ -11,3 +11,4 @@ I'm Kenny and I'm from Malaysia but grew up in Thailand before completing my BSc
 * [Github](https://github.com/kennethchow/)
 * [Facebook](https://www.facebook.com/kennychowsk)
 * [Instagram](https://www.instagram.com/ken.nychow/)
+* [kennychow123@gmail.com](mailto:kennychow123@gmail.com)
