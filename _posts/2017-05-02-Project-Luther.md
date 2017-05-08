@@ -10,7 +10,7 @@ The goal for our second project was to practice web scraping and performing a si
 Marijuana as an industry is very much still in the introduction phase with Colorado leading the pack with legalisation and various other states including California following suit. The opening up of a new industry means a completely empty market with no competition and vast potential for growth in all aspects from everything involved in growing to distribution and even novel products made of the flower.
 
 
-![Colorado Tax Revenue]({{ site.url }}/images/SR231_1.png)
+![Colorado Tax Revenue]({{ site.url }}/images/SR231_1.png){: .center-image }
 <em>Fig. 1 Marijuana tax revenue by month from January 2014 to January 2016</em>
 
 
@@ -23,7 +23,7 @@ Using strain data obtained from [Allbud](https://www.allbud.com/) which included
   > Cannabis can be classified into two main species: Cannabis Indica and Cannabis Sativa. In scientific nomenclature the first word refers to the Genus - a taxonomic category within which species share similar traits. This has enabled crossbreeding which has given rise to the vast variety of Sativa/Indica hybrids taking different proportions of genetics from parent strains.
 
 
-![Features]({{ site.url }}/images/featureselection.png)
+![Features]({{ site.url }}/images/featureselection.png){: .center-image }
 <em>Fig. 2 Features with the highest contribution to determining genetics according to my linear model</em>
 
 
