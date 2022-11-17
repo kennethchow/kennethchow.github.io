@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+          <img
+            src="{{ page.profile_picture.src | absolute_url }}"
+            alt="{{ page.profile_picture.alt }}"
+            class="profile-pic"
+          />
+
+          {{ content }}
+         </div>
+        <div class="work-item">
+          <h2>Toolkit</h2>
+          <li>Python</li>
+          <li>SQL</li>
+          <li>R</li>
+          <li>scikit-learn</li>
+          <li>Tensorflow/Keras</li>
+        </div>
+        <div class="work-item">
+          <h2>Areas of experience</h2>
+          <li>Image processing - Histopathology image segmentation</li>
+          <li>Behavioural classification - Image recognition networks and unsupervised classification</li>
+          <li>Customer data analysis - Customer segmentation and recommendation engines</li>
+          <li>Genomics and transcriptomic data - Disease prediction and expression analysis</li>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
